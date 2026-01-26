@@ -20,6 +20,7 @@ NODES=(
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/crystian/ComfyUI-Crystools"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/MoonGoblinDev/Civicomfy"
     #"https://github.com/ltdrdata/ComfyUI-Manager"
     #"https://github.com/cubiq/ComfyUI_essentials"
 )
