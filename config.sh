@@ -16,6 +16,10 @@ PIP_PACKAGES=(
 )
 
 NODES=(
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/crystian/ComfyUI-Crystools"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     #"https://github.com/ltdrdata/ComfyUI-Manager"
     #"https://github.com/cubiq/ComfyUI_essentials"
 )
