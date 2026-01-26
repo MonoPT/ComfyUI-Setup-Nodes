@@ -52,6 +52,11 @@ ESRGAN_MODELS=(
 CONTROLNET_MODELS=(
 )
 
+# SAM MODELS 
+#SAM_MODELS=(
+#https://huggingface.co/datasets/Gourieff/ReActor/blob/main/models/sams/sam_vit_b_01ec64.pth
+#)
+
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
 function provisioning_start() {
