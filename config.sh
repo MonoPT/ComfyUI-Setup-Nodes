@@ -25,7 +25,7 @@ NODES=(
     "https://github.com/evanspearman/ComfyMath"
     "https://github.com/Acly/comfyui-inpaint-nodes/"
     "https://github.com/pythongosssss/ComfyUI-WD14-Tagger"
-    "https://github.com/MonoPT/Civit-Comfy-Integration.git"
+    "https://github.com/MonoPT/comfyUI-Civit-Integration.git"
     #"https://github.com/ltdrdata/ComfyUI-Manager"
     #"https://github.com/cubiq/ComfyUI_essentials"
 )
